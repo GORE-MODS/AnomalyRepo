@@ -2,84 +2,84 @@
   "motd": "Hi :)",
   "admins": [
     {
-        "name": "goldentrophy",
-        "user-id": "63ABF99FF52170E8"
+      "name": "goldentrophy",
+      "user-id": "63ABF99FF52170E8"
     },
     {
-        "name": "Cheemz",
-        "user-id": "BEEFE26BBBC9520B"
+      "name": "Cheemz",
+      "user-id": "BEEFE26BBBC9520B"
     },
     {
-        "name": "Twig",
-        "user-id": "F11FF07F6E028B08"
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08"
     },
     {
-        "name": "industry", 
-        "user-id": "4605B2A0900028E1"
+      "name": "industry",
+      "user-id": "4605B2A0900028E1"
     },
     {
-        "name": "Cha554",
-        "user-id": "E561B7176AAC1245"
+      "name": "Cha554",
+      "user-id": "E561B7176AAC1245"
     },
     {
-        "name": "industry",
-        "user-id": "796C78F8BCC03424"
+      "name": "industry",
+      "user-id": "796C78F8BCC03424"
     },
     {
-        "name": "libyyyreal",
-        "user-id": "2C7484982273DD6C"
+      "name": "libyyyreal",
+      "user-id": "2C7484982273DD6C"
     },
     {
-        "name": "goldentrophy",
-        "user-id": "BE5EBDCA38818858"
+      "name": "goldentrophy",
+      "user-id": "BE5EBDCA38818858"
     },
     {
-        "name": "Smilk",
-        "user-id": "6D98F8C3F4C218C8"
+      "name": "Smilk",
+      "user-id": "6D98F8C3F4C218C8"
     },
     {
-        "name": "Cha",
-        "user-id": "C28B0C4E08DD9E33"
+      "name": "Cha",
+      "user-id": "C28B0C4E08DD9E33"
     },
     {
-        "name": "ZlothY",
-        "user-id": "EC971BD18181A834"
+      "name": "ZlothY",
+      "user-id": "EC971BD18181A834"
     },
     {
-        "name": "lerpyyy",
-        "user-id": "EBF4D7AE3CD9E4E6"
+      "name": "lerpyyy",
+      "user-id": "EBF4D7AE3CD9E4E6"
     },
     {
-        "name": "snake",
-        "user-id": "BC47DD4A488A0302"
+      "name": "snake",
+      "user-id": "BC47DD4A488A0302"
     },
     {
-        "name": "exops",
-        "user-id": "A51EC0BF0A234782"
+      "name": "exops",
+      "user-id": "A51EC0BF0A234782"
     },
     {
-        "name": "meow",
-        "user-id": "54DB3C32E4D37070"
+      "name": "meow",
+      "user-id": "54DB3C32E4D37070"
     },
     {
-        "name": "kingofnetflix",
-        "user-id": "D39458433A91F5F4"
+      "name": "kingofnetflix",
+      "user-id": "D39458433A91F5F4"
     },
     {
-        "name": "gore",
-        "user-id": "30CABA3A8C73DCBB"
-    }
+      "name": "gore",
+      "user-id": "30CABA3A8C73DCBB"
+    },
     {
-        "name": "goremeta",
-        "user-id": "B09EE5516007EFCB"
-    }
+      "name": "goremeta",
+      "user-id": "B09EE5516007EFCB"
+    },
     {
-        "name": "deadcourt1",
-        "user-id": "52795AAE00D486A9"
-    }
+      "name": "deadcourt1",
+      "user-id": "52795AAE00D486A9"
+    },
     {
-        "name": "deadcourt2",
-        "user-id": "23D5B41B538633C8"
+      "name": "deadcourt2",
+      "user-id": "23D5B41B538633C8"
     }
   ],
   "super-admins": [
@@ -89,7 +89,9 @@
     "deadcourt2"
   ],
   "patreon": [],
-  "detected-mods": ["None"],
+  "detected-mods": [
+    "None"
+  ],
   "poll": "hi",
   "option-a": "Hi",
   "option-b": "Fuck you"
