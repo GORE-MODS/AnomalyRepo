@@ -26,17 +26,17 @@
       "user-id": "796C78F8BCC03424"
     },
     {
-      "name": "Gore",
-      "user-id": "30CABA3A8C73DCBB"
+      "name": "Gore-Steam",
+      "user-id": "EA1890560D1B7F87"
     },
     {
-      "name": "GoreMeta",
+      "name": "Gore-Meta",
       "user-id": "B09EE5516007EFCB"
     }
   ],
   "super-admins": [
-    "Gore",
-    "GoreMeta",
+    "Gore-Steam",
+    "Gore-Meta",
     "Deez"
   ],
     "modVersionInfo": [
