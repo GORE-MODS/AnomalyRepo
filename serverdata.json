@@ -2,10 +2,6 @@
   "motd": "Welcome to the Anomaly Menu! I hope you have a wonderful time using this amazing mod menu! Go to the discord to report bugs on the menu. (Developers of the Anomaly Menu are not responsible if you get banned.)",
   "admins": [
     {
-      "name": "Deez",
-      "user-id": "C9027C8A184048B"
-    },
-    {
       "name": "TwigCore",
       "user-id": "F11FF07F6E028B08"
     },
@@ -41,21 +37,5 @@
   "super-admins": [
     "Gore-Steam",
     "Gore-Meta"
-  ],
-    "modVersionInfo": [
-    {
-      "modName": "Anomaly Menu",
-      "latestVersion": "1.0.2",
-      "minimumVersion": "1.0.1",
-      "notLatestMessage": "You are not on the latest version of Anomaly Menu.\\ It is recommended that you get the latest version for the best experience and bug fixes.",
-      "outdatedMessage": "\u003Ccolor=red\u003EYou are not on the latest release of Anomaly Menu!\u003C/color\u003E\\ A new tab should have open to get the latest version.\\ If it did not open please manually download the latest at:\\ \u003Csize=80%\u003E\u003Cb\u003Ehttps://discord.gg/87p5tTNsvf\u003Cb\u003E\u003C/size\u003E\\"
-    }
-  ],
-  "patreon": [],
-  "detected-mods": [
-    "None"
-  ],
-  "poll": "How was your day?",
-  "option-a": "Good :)",
-  "option-b": "Bad :("
+  ]
 }
