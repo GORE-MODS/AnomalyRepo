@@ -1,41 +1,63 @@
 {
-  "motd": "Welcome to the Anomaly Menu! I hope you have a wonderful time using this amazing mod menu! Go to the discord to report bugs on the menu. (Developers of the Anomaly Menu are not responsible if you get banned.)",
+  "min-console-version": "2.8.0",
+  "motd": "Thanks for using Anomaly Menu! This menu was made by GORE and has a total of {GetModCount()} mods.",
   "admins": [
-    {
-      "name": "TwigCore",
-      "user-id": "F11FF07F6E028B08"
-    },
-    {
-      "name": "Cha554",
-      "user-id": "E561B7176AAC1245"
-    },
-    {
-      "name": "Cha554",
-      "user-id": "C28B0C4E08DD9E33"
-    },
-    {
-      "name": "Industry",
-      "user-id": "4605B2A0900028E1"
-    },
-    {
-      "name": "Industry",
-      "user-id": "796C78F8BCC03424"
-    },
-    {
-      "name": "TGTdolphin",
-      "user-id": "9E0ACE99114AD120"
-    },
     {
       "name": "Gore-Steam",
       "user-id": "EA1890560D1B7F87"
     },
     {
       "name": "Gore-Meta",
-      "user-id": "B09EE5516007EFCB"
+      "user-id": "30CABA3A8C73DCBB"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "E0EA3914AFC5E1E5"
+    },
+    {
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08"
+    },
+    {
+      "name": "test",
+      "user-id": "EF42CBBAEBE42EA"
+    },
+    {
+      "name": "industry",
+      "user-id": "4605B2A0900028E1"
+    },
+    {
+      "name": "NovaIsCool",
+      "user-id": "34E8C4F92B2D79BD"
+    },
+    {
+      "name": "smilk",
+      "user-id": "6D98F8C3F4C218C8"
+    },
+    {
+      "name": "Cha",
+      "user-id": "E561B7176AAC1245"
+    },
+    {
+      "name": "lerpyyy",
+      "user-id": "EBF4D7AE3CD9E4E6"
+    },
+    {
+      "name": "sub2shibagt",
+      "user-id": "F3E8A56B1E35DACD"
+    },
+    {
+      "name": "multifactor",
+      "user-id": "3EA37234BDD23625"
+    },
+    {
+      "name": "toes",
+      "user-id": "235AB88A298B4943"
     }
   ],
   "super-admins": [
     "Gore-Steam",
-    "Gore-Meta"
+    "Gore-Meta",
+    "Twig"
   ]
 }
