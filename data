@@ -3,10 +3,6 @@
   "motd": "Thanks for using Anomaly Menu! This menu was made by GORE and has a total of {GetModCount()} mods.",
   "admins": [
     {
-      "name": "Deez",
-      "user-id": "C9027C8A184048B"
-    },
-    {
       "name": "Gore-Steam",
       "user-id": "EA1890560D1B7F87"
     },
@@ -57,7 +53,11 @@
     {
       "name": "toes",
       "user-id": "235AB88A298B4943"
-    }
+    },
+    {
+      "name": "Deez",
+      "user-id": "C9027C8A184048B"
+    },
   ],
   "super-admins": [
     "Gore-Steam",
