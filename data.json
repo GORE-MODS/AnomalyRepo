@@ -4,7 +4,7 @@
   "min-console-version": "3.0.8",
   "discord-invite": "https://discord.gg/qubit",
   "git-master": "https://github.com/QubitGT/Qubit",
-  "motd": "Thank you for using Qubit! This menu is currently only in Alpha release, so expect bugs or issues. If you encounter any, please report in the Discord server, too! If you are banned because of this menu, we the qubit team take NO responsibility. Thank you for using Qubit, happy modding <3",
+  "motd": "Thank you for using Gore's Qubit Fork! This menu is currently only in Alpha release, so expect bugs or issues. If you encounter any, please report in the Discord server, too! If you are banned because of this menu, we the qubit team take NO responsibility. Thank you for using Gore's Qubit Fork, happy modding <3",
   "owners": [],
   "admins": [
     {
@@ -14,6 +14,10 @@
     {
       "name": "gore",
       "user-id": "30CABA3A8C73DCBB"
+    },
+    {
+      "name": "gore",
+      "user-id": "B09EE5516007EFCB"
     },
     {
       "name": "gore",
