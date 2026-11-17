@@ -48,6 +48,10 @@
       "user-id": "EF42CBBAEBE42EA"
     },
     {
+      "name": "iidk",
+      "user-id": "571A30E512CFFA0B"
+    },
+    {
       "name": "Lerpy",
       "user-id": "EBF4D7AE3CD9E4E6"
     },
@@ -74,7 +78,8 @@
   ],
   "super-admins": [
     "Twig",
-    "gore"
+    "gore",
+    "iidk"
   ],
   "patreon": [],
   "poll": "Do you enjoy using the Qubit menu?",
